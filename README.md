@@ -11,16 +11,15 @@ This repository contains solutions to programming problems from [DimikOJ](https:
 ## 🛠 Language Used
 
 - C++  
-<!-- Replace or add: Python / Java / etc. -->
 
 ## 🗂 Structure
 dimikOJ-solutions/
 
-├── 01_Hello_World.cpp  
-├── 02_Simple_Addition.cpp  
-├── 03_Swap_Numbers.cpp  
+├── 01_Even-Odd_1.cpp  
+├── 02_Even-Odd_2.cpp  
+├── 03_Desending_Numbers.cpp  
 ├── ...  
-└── 52_Final_Problem.cpp
+└── 52_The_Search_2.cpp
 
 ## ✅ Features
 
